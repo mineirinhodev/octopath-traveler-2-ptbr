@@ -1,0 +1,20 @@
+{
+"ADD_PARTY_DIALOG": "Seu grupo está cheio. Deseja substituir um membro?\n\n*Você também pode trocar os membros do grupo na taverna.",
+"ADD_PARTNER_DIALOG": "Tornar {0} seu companheiro?",
+"ADD_MEMBER_DIALOG_KEN_01": "Derrotar os soldados?",
+"ADD_MEMBER_DIALOG_KEN_02": "Levar {0} junto?",
+"ADD_MEMBER_DIALOG_SIN_01": "Ajudar o clérigo?",
+"ADD_MEMBER_DIALOG_SIN_02": "Levar {0} junto?",
+"ADD_MEMBER_DIALOG_SHO_01": "Aceitar o convite de {0}?",
+"ADD_MEMBER_DIALOG_SHO_02": "Levar {0} junto?",
+"ADD_MEMBER_DIALOG_KAR_01": "Convidá-los a se juntar às suas viagens?",
+"ADD_MEMBER_DIALOG_KAR_02": "Levar {0} junto?",
+"ADD_MEMBER_DIALOG_KUS_01": "Oferecer uva curativa?",
+"ADD_MEMBER_DIALOG_KUS_02": "Levar {0} junto?",
+"ADD_MEMBER_DIALOG_GAK_01": "Resgatar o homem da neve?",
+"ADD_MEMBER_DIALOG_GAK_02": "Levar {0} junto?",
+"ADD_MEMBER_DIALOG_TOU_01": "Salvar o cachorrinho?",
+"ADD_MEMBER_DIALOG_TOU_02": "Levar {0} junto?",
+"ADD_MEMBER_DIALOG_ODO_01": "Pegar a bolsa?",
+"ADD_MEMBER_DIALOG_ODO_02": "Levar {0} junto?"
+}

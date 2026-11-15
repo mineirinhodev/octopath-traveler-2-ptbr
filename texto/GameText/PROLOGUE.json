@@ -1,0 +1,6 @@
+{
+"PROLOGUE_FLASHBACK": "Ouvir o início da história de {0}?\n\n*O grupo será temporariamente desfeito e o Capítulo 1 da história de {0} começará.\n*Mesmo que escolha \"Não\", você poderá ouvir a história depois visitando a taverna local.",
+"PROLOGUE_MERGE": "Adicionou todas as folhas e itens que {0} possuía.",
+"PROLOGUE_FLASHBACK_MERGE": "Adicionou todas as folhas, itens, EXP e JP que {0} possuía durante a recordação.",
+"PROLOGUE_REMINISCENCE_MERGE_DIALOG": "Adicionou todas as folhas e itens que {0} possuía."
+}

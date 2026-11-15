@@ -1,0 +1,14 @@
+{
+"aGUILD_TYPE_09_DIALOG_01": "{0}\n\nTotal: ➓{1}\n\nComprar?",
+"aGUILD_TYPE_09_DIALOG_02": "Obteve\n{0} ㌔ 1",
+"aGUILD_TYPE_09_DIALOG_03": "Obteve\n{0} ㌔ 1",
+"aGUILD_TYPE_09_DIALOG_04": "Aprendeu a habilidade de classe de Mestre de Armas\n{0}",
+"aGUILD_TYPE_09_DIALOG_05": "Ao aprender esta habilidade, você desbloqueou uma habilidade de apoio!",
+"aGUILD_TYPE_12_DIALOG_01": "Item(ns) necessário(s):\n{0}\n\nEntregar o(s) item(ns)?\n\nO(s) item(ns) necessário(s) será(ão) perdido(s) no processo.",
+"aGUILD_TYPE_12_DIALOG_02": "Você precisa do(s) seguinte(s) item(ns).\n\n{0}",
+"aGUILD_TYPE_12_DIALOG_03": "Obteve\nProva do Inventor ㌔ 1",
+"aGUILD_TYPE_12_DIALOG_04": "Aprendeu a habilidade divina de Inventor\nFerramenta Multiuso",
+"aGUILD_TYPE_12_DIALOG_05": "{0} (Em mãos: {1})",
+"aGUILD_TYPE_12_DIALOG_06": "Aprendeu a habilidade de classe de Inventor\n{0}",
+"aGUILD_TYPE_12_DIALOG_07": "O seguinte item está equipado no momento e não pode ser entregue.\n\n{0}"
+}

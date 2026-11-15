@@ -1,0 +1,11 @@
+{
+"eKS_PARTSPLIT_HEADER": "Formação do Grupo",
+"eKS_PARTSPLIT_FOOTER": "Divida seus heróis em dois grupos de quatro.",
+"eKS_PARTSPLIT_PARTYNAME_1": "Grupo Principal",
+"eKS_PARTSPLIT_PARTYNAME_2": "Grupo Secundário",
+"eKS_PARTSPLIT_WARNING": "*Você perderá a batalha se qualquer um dos grupos for aniquilado.",
+"eKS_PARTSPLIT_BUTTON_COMPLETE": "Confirmar",
+"eKS_PARTSPLIT_DIALOG_ANNOUNCE": "Grupos",
+"eKS_PARTSPLIT_DIALOG_COMPLETE_CONFIRM": "Iniciar o confronto final?",
+"eKS_PARTSPLIT_CANCELDIALOG": "Cancelar a formação dos grupos?"
+}

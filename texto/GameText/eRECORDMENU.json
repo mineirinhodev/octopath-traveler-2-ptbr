@@ -1,0 +1,22 @@
+{
+"eRECORDMENU_PROLOUGE_REMINISCENCE_CONFIRM": "Caminho de {0}, Capítulo 1\n\nIniciar a história?",
+"eRECORDMENU_PROLOUGE_FAILED_DIALOG": "Outra história está em andamento.",
+"eRECORDMENU_TITLE_FINALSTORY": "Capítulo Final",
+"eRECORDMENU_HEADER_KEN": "Diário de Hikari",
+"eRECORDMENU_HEADER_KAR": "Diário de Ochette",
+"eRECORDMENU_HEADER_KUS": "Diário de Castti",
+"eRECORDMENU_HEADER_SHO": "Diário de Partitio",
+"eRECORDMENU_HEADER_SIN": "Diário de Temenos",
+"eRECORDMENU_HEADER_GAK": "Diário de Osvald",
+"eRECORDMENU_HEADER_TOU": "Diário de Throné",
+"eRECORDMENU_HEADER_ODO": "Diário de Agnea",
+"eRECORDMENU_HEADER_KEN_ODO": "Diário de Agnea e Hikari",
+"eRECORDMENU_HEADER_KAR_KUS": "Diário de Castti e Ochette",
+"eRECORDMENU_HEADER_SHO_GAK": "Diário de Osvald e Partitio",
+"eRECORDMENU_HEADER_SIN_TOU": "Diário de Temenos e Throné",
+"eRECORDMENU_HEADER_FINAL": "Diário do Capítulo Final",
+"eRECORDMENU_PARTYCHAT_CONFIRM_DIALOG": "Ouvir uma conversa de viagem?",
+"eRECORDMENU_UNPLAYABLE_PROLOUGE_REMINISCENCE": "Outra história está em andamento.",
+"eRECORDMENU_UNPLAYABLE_FINALSTORY": "Outra história está em andamento.",
+"eRECORDMENU_UNPLAYABLE": "Você pode ouvir as histórias puladas visitando a taverna local e escolhendo \"Ouvir uma História\"."
+}

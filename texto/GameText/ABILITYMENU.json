@@ -1,0 +1,6 @@
+{
+"ABILITYMENU_WEAPON_MASTER": "Obtenha tesouros sagrados para aprender habilidades de classe.",
+"ABILITYMENU_INVENTOR": "Ajude Arkar com suas criações para aprender habilidades de classe.",
+"ABILITYMENU_NO_EQUIP_WEAPON_MASTAER": "{0}\ndeve estar equipado.",
+"ABILITYMENU_NO_EQUIP_WEAPON_MASTAER_TAG": "<span color=\"#ff3a35ff\">{0}</>\n<span color=\"#ff3a35ff\">deve estar equipado.</>"
+}
